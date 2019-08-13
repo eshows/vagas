@@ -8,6 +8,7 @@ Se você quer trabalhar com a gente e fazer parte da nossa revolução musical e
 As vagas abertas serão listadas logo abaixo, fique de olho:
 
   * [Desenvolvedor Full Stack Javascript (Node + React)](/vagas/front-end.md)
+  * [Desenvolvedor Full Stack Ruby (on Rails)](/vagas/back-zombies.md)
 
 ## Testes
 
