@@ -46,3 +46,6 @@ Entre R$ 4.000,00 e R$ 8.000,00 (a depender do resultado dos testes e de entrevi
 ## Regime
 
 Pessoa Jurídica
+
+
+Vejas outras vagas no nosso [painel](../README.md)

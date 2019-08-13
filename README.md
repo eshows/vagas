@@ -23,5 +23,3 @@ Nós valorizamos esforço e empenho, então, resolver os problemas de forma pró
 
 ### Back-end
   * [Apocalipse Zumbi](https://github.com/eshows/back-zombies)
-
-Vejas outras vagas no nosso [painel](../README.md)
